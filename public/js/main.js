@@ -19968,7 +19968,7 @@ var ListItem = React.createClass({
             React.createElement(
                 'h6',
                 null,
-                this.props.text
+                this.props.ingredient
             )
         );
     }
